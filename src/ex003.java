@@ -14,5 +14,4 @@ public class ex003 {
         return mdcRecursivo(b, a % b);
     }
 
-    
 }
